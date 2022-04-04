@@ -8,7 +8,7 @@ A simple android application that demonstrate how to use RingCentral Platform AP
 
 - Download / Clone this project
 
-- Open the file ["SendSMS.java"](https://github.com/suyashjoshi/RingCentralSMS-Android/blob/main/app/src/main/java/com/ringcentral/sms/SendSMS.java) and update the constant fields with your RingCentral application sandbox or production credentials. You will also need to provide JWT Credential, refer to this guide on how to create/access the same.
+- Open the file ["SendSMS.java"](https://github.com/suyashjoshi/RingCentralSMS-Android/blob/main/app/src/main/java/com/ringcentral/sms/SendSMS.java) and update the constant fields with your RingCentral application sandbox or production credentials. You will also need to provide JWT Credential, refer to this [guide](https://developers.ringcentral.com/guide/authentication/jwt/create-jwt) on how to create/access the same.
 
 - Run the project from Android Studio on a device or emulator.
 
